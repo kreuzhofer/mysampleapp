@@ -1,0 +1,9 @@
+{
+  "lambdaLayers": [],
+  "environmentVariableList": [
+    {
+      "cloudFormationParameterName": "test1",
+      "environmentVariableName": "test1"
+    }
+  ]
+}
